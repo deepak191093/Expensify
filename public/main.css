@@ -1,0 +1,10 @@
+h1{
+    color:red;
+}
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+.NavBar{
+    background: rgb(162, 141, 141);
+}
